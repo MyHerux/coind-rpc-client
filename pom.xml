@@ -26,6 +26,7 @@
     <modules>
         <module>bitcoin</module>
         <module>ethereum</module>
+        <module>siacoin</module>
     </modules>
 
     <dependencyManagement>
@@ -41,6 +42,12 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
                 <version>1.2.29</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp</artifactId>
+                <version>3.10.0</version>
             </dependency>
 
         </dependencies>
