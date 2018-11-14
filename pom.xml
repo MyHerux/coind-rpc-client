@@ -28,6 +28,7 @@
         <module>ethereum</module>
         <module>siacoin</module>
         <module>monero</module>
+        <module>bytom</module>
     </modules>
 
     <dependencyManagement>
