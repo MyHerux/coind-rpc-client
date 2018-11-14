@@ -27,6 +27,7 @@
         <module>bitcoin</module>
         <module>ethereum</module>
         <module>siacoin</module>
+        <module>monero</module>
     </modules>
 
     <dependencyManagement>
