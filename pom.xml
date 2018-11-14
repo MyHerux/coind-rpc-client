@@ -25,6 +25,7 @@
 
     <modules>
         <module>bitcoin</module>
+        <module>ethereum</module>
     </modules>
 
     <dependencyManagement>
